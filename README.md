@@ -5,10 +5,11 @@ It demonstrates GitHub abilities to students of VNTU
 1БС-22б are present - hello
 student Oksiksu
 Daiana
+Hello from Vovk Nastia! Wish you a good day!
 
 2БС-22б - all are present!
 changes for commit from Nadiia
 
 
-## Initial commit
+
 hello world
