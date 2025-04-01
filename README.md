@@ -7,3 +7,6 @@ It demonstrates GitHub abilities to students of VNTU
 2БС-22б - all are present!
 changes for commit from Nadiia
 
+
+## Initial commit
+hello world
