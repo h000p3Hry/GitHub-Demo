@@ -5,3 +5,5 @@ It demonstrates GitHub abilities to students of VNTU
 1БС-22б
 
 2БС-22б - all are present!
+changes for commit from Nadiia
+
