@@ -2,7 +2,7 @@
 It demonstrates GitHub abilities to students of VNTU
 
 ## Students' group at the lecture
-1БС-22б
+1БС-22б are present
 student Oksiksu
 
 2БС-22б - all are present!
