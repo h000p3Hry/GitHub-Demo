@@ -8,3 +8,6 @@ student Oksiksu
 2БС-22б - all are present!
 changes for commit from Nadiia
 
+
+## Initial commit
+hello world
